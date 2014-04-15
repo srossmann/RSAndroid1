@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RSAndroid.iml" filepath="$PROJECT_DIR$/RSAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rsapp/rsapp.iml" filepath="$PROJECT_DIR$/rsapp/rsapp.iml" />
+    </modules>
+  </component>
+</project>
+
